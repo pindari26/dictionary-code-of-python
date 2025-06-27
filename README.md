@@ -1,2 +1,16 @@
 # dictionary-code-of-python
-basic code 
+s = set ()
+n = input("Enter the number 1")
+s.add(int(n))
+n = input("Enter the number 2")
+s.add(int(n))
+n = input("Enter the number 3")
+s.add(int(n))
+n = input("Enter the number 4")
+s.add(int(n))
+n = input("Enter the number 5")
+s.add(int(n))
+n = input("Enter the number 6")
+s.add(int(n))
+
+print(s)
